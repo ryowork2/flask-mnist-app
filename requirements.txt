@@ -7,7 +7,7 @@ certifi
 chardet
 flask
 future
-gast
+gast==0.4.0
 grpcio
 gunicorn
 h5py
@@ -21,14 +21,14 @@ MarkupSafe
 numpy
 oauthlib
 pillow
-protobuf
+protobuf==3.19.6
 PyYAML
 python-dotenv
 requests
 scipy
 six
-tensorboard
-tensorflow-cpu
+tensorboard==2.11.2
+tensorflow-cpu==2.11.0
 termcolor
 urllib3
 Werkzeug
